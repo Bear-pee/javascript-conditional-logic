@@ -1,6 +1,6 @@
 //Start coding here
-const greeting = "Hello ! 😁";
+const greeting = function (){console.log("Hello ! 😁")};
 
 
-
-console.log(`${greeting}  "This line will be executed without any error."`);
+greeting();
+console.log("This line will be executed without any error.");
