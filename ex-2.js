@@ -1,4 +1,4 @@
 //Exercise 2
 let lightBulbStatus = "On";
 
-// Start coding here.
+if(lightBulbStatus = "Broken"){"Light bulb is Broken."} else{"Please choose the correct input (On/Off/Broken)"};
